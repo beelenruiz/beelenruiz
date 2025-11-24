@@ -11,4 +11,4 @@ I am currently a Web Application Development student who loves learning new thin
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,laravel,nodejs,react,vite" height="35"/>
 
 ## Software and Tools
-<img src="https://skillicons.dev/icons?i=docker,idea,mysql,vscode,windows,linux,aws" height="35"/>
+<img src="https://skillicons.dev/icons?i=docker,idea,mysql,vscode,windows,linux,aws,anaconda,grafana,npm,figma" height="35"/>
