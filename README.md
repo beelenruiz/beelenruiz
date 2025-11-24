@@ -5,7 +5,7 @@
 I am currently a Web Application Development student who loves learning new things and tackling new challenges. I believe that combining clean code with attractive design is the key to creating the best projects.
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=java,js,html,css,php" height="35"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,php,py" height="35"/>
 
 ## Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,laravel,nodejs,react,vite" height="35"/>
